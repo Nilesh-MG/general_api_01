@@ -1,3 +1,5 @@
 this is some text in file 02
 
 Let us add some content for marketing section.
+
+And we will update marketing section on october 19
