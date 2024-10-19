@@ -1,8 +1,0 @@
-This file for git hub file 01
-
-And we will adding some more presentations for students.
-
-Lets update presentation for students on 19 october.
-
-Lets add footer section and contents here. 
-
