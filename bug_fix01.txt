@@ -1,6 +1,0 @@
-I am fixing some bugs in this file.
-
-I have fixed one more bug in this file.
-
-I have fixed third bug in this file. 
-I have fixed fourth bug in this file.
